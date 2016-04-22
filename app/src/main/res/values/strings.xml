@@ -3,7 +3,7 @@
     <string name="action_settings">Settings</string>
 
     <!-- Texto de la pantalla login -->
-    <string name="texto_usuario">Ingrese Usuario</string>
+    <string name="texto_usuario">Ingrese Email</string>
     <string name="texto_password">Ingrese el password</string>
     <string name="enviar">Enviar</string>
 
